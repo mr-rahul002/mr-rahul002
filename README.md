@@ -1,4 +1,5 @@
-- Hi 👋, I’m Rahul
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Trevor-akshay/Trevor-akshay/main/hi.gif" width="30px">, I am Rahul </h1>
+
 
 <!---
 mr-rahul002/mr-rahul002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

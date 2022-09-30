@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/mr-rahul002/mr-rahul002/blob/main/hi.gif" width="30px">, I am Rahul </h1>
+<align="center">Hi <img src="https://github.com/mr-rahul002/mr-rahul002/blob/main/hi.gif" width="30px">, I am Rahul </>
 
 <h1 align="center">
   <a align="center" href ="#" target="_blank" >
@@ -34,12 +34,51 @@
 <b>ABOUT ME </b> ->
 <p align="left">
  <br>
-  <h4>
+ 
 ✔ Callme: He/His || SmartWorker  <br>
 ✔ I’m currently a Software Developer <br>
 ✔ I’m looking to collaborate with any Open - Source software projects<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds <br>
-✔ Fun fact : I Always prefer challenges as it makes life more interesting to deal with <br><br><br><br></h4>
+✔ Fun fact : I Always prefer challenges as it makes life more interesting to deal with <br><br><br><br>
  </p>
+ 
+  ## 🛠️ My Skills
+
+### 📌 Programming languages
+
+<p align="left"> 
+  <a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+ 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+ 
+ <a href="https://www.typescriptlang.org/docs/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
+ 
+ <a href="https://go.dev/doc/">
+    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  </a>
+ 
+ <a href="https://devdocs.io/html/">
+    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+ 
+ <a href="https://devdocs.io/css/">
+    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+ 
+ <a href="https://devdocs.io/c/">
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  </a> 
+  &emsp;
+
+
+
+</p>
+
  
  

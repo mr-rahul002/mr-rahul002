@@ -8,5 +8,6 @@
   </a>
 </h1>
 
-
+<p align="center">
+  <a href="https://leetcode.com/rahul_seth/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   

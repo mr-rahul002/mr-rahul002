@@ -28,4 +28,13 @@
   <br>
  <h3 align="center"><b><i >"Failure builds what you are today!”</i></b></h3>
 </p>
-    
+ 
+<hr>
+
+<hr>
+<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<b>ABOUT ME </b> ->
+<p align="left">
+ <br>
+  
+  

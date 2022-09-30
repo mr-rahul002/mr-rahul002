@@ -15,3 +15,5 @@
 <a href="https://www.instagram.com/_rahul_seth_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta_rahul" height="35" width="130" /></a>
  <a href = "mailto: 02rahulseth@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" width="130" /></a>
 </p>
+
+<hr>

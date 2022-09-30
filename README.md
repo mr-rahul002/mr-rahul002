@@ -51,17 +51,6 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
  
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  </a>
- 
- <a href="https://www.typescriptlang.org/docs/">
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  </a>
- 
- <a href="https://go.dev/doc/">
-    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  </a>
  
  <a href="https://devdocs.io/html/">
     <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -74,8 +63,13 @@
  <a href="https://devdocs.io/c/">
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   </a> 
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
   &emsp;
-
+  
+  
 
 
 </p>

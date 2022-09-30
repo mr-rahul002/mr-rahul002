@@ -113,12 +113,6 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
  &emsp;
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
- &emsp;
-    <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
-  &emsp;
-    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
@@ -129,9 +123,6 @@
  &emsp;
     <a href="#"><img alt="Android_Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="XDA" src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white"></a>
     
 </p>
 

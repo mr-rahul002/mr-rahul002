@@ -17,3 +17,15 @@
 </p>
 
 <hr>
+
+<p align="center">
+  <em>
+  A <b> Software Development Engineer</b>
+    <br>
+  Working in <b> Java, Flutter, C++, and MySQL</b> </b>&nbsp;
+  <br> Who is <b>obsessed</b> with <b> Problem Solving</b> and always looking for challenges
+  </em>
+  <br>
+ <h3 align="center"><b><i >"Failure builds what you are today!”</i></b></h3>
+</p>
+    

@@ -30,8 +30,6 @@
 </p>
  
 <hr>
-
-<hr>
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <b>ABOUT ME </b> ->
 <p align="left">
@@ -39,10 +37,6 @@
 ✔ Callme: He/His || SmartWorker  <br>
 ✔ I’m currently a Software Developer <br>
 ✔ I’m looking to collaborate with any Open - Source software projects<br>
-✔ Ask from me anything you want, If I am alive I will ASAP <br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds <br>
 ✔ Fun fact : I Always prefer challenges as it makes life more interesting to deal with <br><br><br><br>
  </p>
- 
- ## 
-  
-  

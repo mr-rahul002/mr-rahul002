@@ -22,7 +22,7 @@
   <em>
   A <b> Software Development Engineer</b>
     <br>
-  Working in <b> Java, Flutter, C++, and MySQL</b> &nbsp;
+  Working in <b> APPIAN, MULESOFT, JAVA, FLUTTTER, C++, and MySQL</b> &nbsp;
   <br> Who is <b>obsessed</b> with <b> Problem Solving</b> and always looking for challenges
   </em>
   <br>

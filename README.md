@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/mr-rahul002/mr-rahul002/blob/main/hi.gif" width="30px">, I am Rahul </h1>
 
+<div align="center">
+  <h3>💻 Software Development Professional | 🚀 Low-Code Expert | 📊 API Integration Specialist</h3>
+</div>
+
 <h1 align="center">
   <a align="center" href ="https://mr-rahul002.github.io/Portfolio/" target="_blank" >
   <img src="https://github.com/mr-rahul002/mr-rahul002/blob/main/coder.png" width="30%">
@@ -8,6 +12,9 @@
   </a>
 </h1>
 
+
+
+ 
 <p align="center">
 <!--  <a href="https://leetcode.com/rahul_seth/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leet_rahul" height="35" width="130" /></a> -->
 <!-- <a href="https://www.hackerrank.com/rahulseth" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hack_rahul" height="35" width="130" /></a> -->
@@ -18,17 +25,6 @@
 
 <hr>
 
-<p align="center">
-  <em>
-  A <b> Software Development Engineer</b>
-    <br>
-  Working in <b> APPIAN, MULESOFT, JAVA, FLUTTTER, C++, and MySQL</b> &nbsp;
-  <br> Who is <b>obsessed</b> with <b> Problem Solving</b> and always looking for challenges
-  </em>
-  <br>
- <h3 align="center"><b><i >"Failure builds what you are today!”</i></b></h3>
-</p>
- 
 <hr>
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -37,7 +33,6 @@
 <p align="left">
  <br>
  
-✔ Callme: He/His || SmartWorker  <br>
 ✔ I’m currently a Software Developer <br>
 ✔ I’m looking to collaborate with any Open - Source software projects<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds <br>
